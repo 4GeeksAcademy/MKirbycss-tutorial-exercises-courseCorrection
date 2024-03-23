@@ -28,7 +28,7 @@ Then make the changes below and run again.
 ## 📝 Instructions:
 
 
-1. Make the Coca Cola drink numbers into lower case letters. 
+1. Make the Coca Cola drink numbers into lowercase letters. 
 2. Make the Pepsi drink numbers into square bullets.
 3. Make the Healthy drink bullets into Armenian numbers. :) 
 4. Completely remove the bullets and extra spacing from the Web-developer drinks. 
